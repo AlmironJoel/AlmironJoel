@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Joel</h1>
 <h3 align="center">A passionate frontend developer from Buenos Aires, Argentina.🧉</h3>
-<a href="https://freeimage.host/i/Jn8KRhQ"><img src="https://iili.io/Jn8KRhQ.th.png" alt="Jn8KRhQ.th.png" border="0"></a>
+<a href="https://www.linkedin.com/in/joel-almiron/"><img align="right" alt="Coding" width="400" src="https://freeimage.host/i/Jn8KRhQ" border="0"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=almironjoel&label=Profile%20views&color=0e75b6&style=flat" alt="almironjoel" /> </p>
 
