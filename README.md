@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joel</h1>
 <h3 align="center">A passionate frontend developer from Buenos Aires, Argentina.🧉</h3>
-<img align="right" background-size:cover alt="Coding" width="400" src="https://iili.io/Jn8KRhQ.th.png" border="0"/>
+<img align="right" background-size:cover alt="Coding" width="400" src="https://iili.io/Jn8KRhQ.md.png" border="0"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=almironjoel&label=Profile%20views&color=0e75b6&style=flat" alt="almironjoel" /> </p>
 - 🔭 I’m currently working on **my portfolio and other personal projects.**
