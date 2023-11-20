@@ -4,9 +4,6 @@
 <img align="right" alt="Coding" width="400" src="https://iili.io/Jn8KRhQ.th.png" border="0"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=almironjoel&label=Profile%20views&color=0e75b6&style=flat" alt="almironjoel" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=almironjoel" alt="almironjoel" /></a> </p>
-
 - 🔭 I’m currently working on **my portfolio and other personal projects.**
 
 - 🌱 I’m currently learning **React Native,Typescript and, of course, improve my CSS skills 😄**
@@ -18,6 +15,10 @@
 - 💬 Ask me about **Javascript, React, Redux, Express, PostgreSQL, Sequelize.**
 
 - 📫 How to reach me **brn_joel@hotmail.com**
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=almironjoel" alt="almironjoel" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
