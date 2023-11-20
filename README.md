@@ -1,4 +1,4 @@
-<a href="#"><img src="https://iili.io/Jn8mHhX.md.gif" alt="Jn8mHhX.md.gif" border="0"></a>
+<a href="#"><img src="https://iili.io/Jn8mHhX.md.gif" alt="Banner" border="0" background-size=cover></a>
 <h1 align="center">Hi 👋, I'm Joel</h1>
 <h3 align="center">A passionate frontend developer from Buenos Aires, Argentina.🧉</h3>
 <img align="right" background-size:cover alt="Coding" width="400" src="https://iili.io/Jn8KRhQ.md.png" border="0"/>
