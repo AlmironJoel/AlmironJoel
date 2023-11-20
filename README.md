@@ -1,4 +1,3 @@
-![image](https://github.com/AlmironJoel/AlmironJoel/assets/122048059/3499e964-06c5-492a-aab1-ea5535007a6d)### Hi there 👋
 <h1 align="center">Hi 👋, I'm Joel</h1>
 <h3 align="center">A passionate frontend developer from Buenos Aires, Argentina.🧉</h3>
 <img align="right" background-size:cover alt="Coding" width="400" src="https://iili.io/Jn8KRhQ.th.png" border="0"/>
